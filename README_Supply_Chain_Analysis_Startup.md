@@ -39,8 +39,6 @@ The dataset represents operational supply chain data for a startup.
 - Stockout frequency  
 - Carrier performance  
 
-> Note: The dataset is representative and structured to simulate real startup supply chain operations.
-
 ---
 
 ## 🔍 Analysis Workflow
@@ -105,4 +103,3 @@ This project demonstrates how **supply chain analytics** can help startups make 
 
 ## 👤 Author
 **Rahul Kumar Saini**  
-Production & Industrial Engineering | Supply Chain & Data Analytics
